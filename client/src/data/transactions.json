@@ -1,0 +1,50 @@
+{
+    "data":{
+        "transaction": [
+            {
+                "id": 1,
+                "name": "pemilik",
+                "email": "pemilik@gmail.com",
+                "address": "jakarta",
+                "postCode": 123321,
+                "income":"25.000",
+                
+                "phone": "0123456789",
+                "status": "Waiting Approve"
+              },
+              {
+                "id": 2,
+                "name": "user",
+                "email": "user@gmail.com",
+                "address": "jakarta",
+                "postCode": 123321,
+                "income":"25.000",
+                
+                "phone": "0123456789",
+                "status": "Success"
+              },
+              {
+              "id": 3,
+              "name": "user",
+              "address": "jakarta",
+              "email": "user@gmail.com",
+              "postCode": 123321,
+              "income":"25.000",
+              
+              "phone": "0123456789",
+              "status": "Cancel"
+            },
+            {
+            "id": 4,
+            "name": "user",
+            "address": "jakarta",
+            "email": "user@gmail.com",
+            "postCode": 123321,
+            "income":"25.000",
+            
+            "phone": "0123456789",
+            "status": "On The Way"
+            }
+        ]
+    }
+}

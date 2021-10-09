@@ -1,0 +1,53 @@
+{
+  "user": {
+    
+    "toping": [
+      {
+        "id":1,
+        "name": "Buble Tea Gelatin",
+        "price": 4000,
+        "image": "https://www.bubbletea.com.au/site/images/source/coffejel500.jpg"
+      },
+      {
+        "id":2,
+        "name": "Manggo",
+        "price": 3000,
+        "image":  "https://foodtolive.com/healthy-blog/wp-content/uploads/2017/06/diced-dried-mango.jpg"
+      },
+      {
+        "id":3,
+        "name": "Coconut",
+        "price": 4000,
+        "image": "https://chatimetexas.com/wp-content/uploads/product/Coconut%20Jelly.jpg"
+      },
+      {
+        "id":4,
+        "name": "BobaManggo",
+        "price": 5000,
+        "image": "https://chatimetexas.com/wp-content/uploads/product/Coconut%20Jelly.jpg"
+
+      },
+      {
+        "id":5,
+        "name": "Buble Tea Gelatin",
+        "price": 4000,
+        "image": "https://www.bubbletea.com.au/site/images/source/coffejel500.jpg"
+      },
+     
+      {
+        "id":6,
+        "name": "Almond",
+        "price": 4000,
+        "image": "https://www.dryfruitkingdom.com/images/thumbs/0002240_american-almonds-selected-badam.jpeg"
+      },
+      {
+        "id":7,
+        "name": "Oreo",
+        "price": 4000,
+        "image": "https://www.creativeglassshop.co.uk/userfiles/productlargeimages/product_1841.jpg"
+      }
+      
+      
+    ]
+  }
+}

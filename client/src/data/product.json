@@ -1,0 +1,32 @@
+{
+  "user": {
+
+    "product": [
+      {
+        "id":1,
+        "name": "Ice  Strawberry Milk",
+        "price": 30000,
+        "image": "https://www.theimpulsivebuy.com/wordpress/wp-content/uploads/2018/06/Starbucks-Serious-Strawberry-Frappuccino-1.jpg"
+      },
+      {
+        "id":2,
+        "name": "Ice  Grape milk ",
+        "price": 30000,
+        "image":  "https://media.spokesman.com/photos/2018/10/26/SRX_WITCHES_BREW_3.jpg"
+      },
+      {
+        "id":3,
+        "name": "Ice Cofee ",
+        "price": 30000,
+        "image": "https://i.pinimg.com/originals/4e/b1/9c/4eb19c491f9a70c614f77ce7330ae58b.jpg"
+      },
+      {
+        "id":4,
+        "name": "Ice  Bluebery milk ",
+        "price": 30000,
+        "image":"https://www.shared.com/content/images/2017/04/04-24-17-Copycat-Starbucks-Unicorn-Frappucino-760x760-no-logo.jpg"
+      }
+      
+    ]
+  }
+}

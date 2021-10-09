@@ -1,0 +1,64 @@
+{
+  "user": {
+    "role": "user",
+    "name":"user",
+    "status":"On The Way",
+    "email":"user@gmail.com",
+    "address": "jakarta",
+    "postCode": 123321,
+    "income":"25.000",
+    "subTotal":74000,
+    "image":"http://thispix.com/wp-content/uploads/2015/06/portrait-profile-027.jpg",
+    "products": [
+      {
+        "id":1,
+        "name": "Ice  Strawberry Milk",
+        "price": 30000,
+        "image": "https://cdn.totallythebomb.com/wp-content/uploads/2020/06/IMG_1110.jpg",
+        "toping": [
+          {
+            "id":1,
+            "name": "Buble Tea Gelatin",
+            "price": 4000,
+            "image": "https://www.bubbletea.com.au/site/images/source/coffejel500.jpg"
+          },
+          {
+            "id":2,
+            "name": "Manggo",
+            "price": 3000,
+            "image":  "https://foodtolive.com/healthy-blog/wp-content/uploads/2017/06/diced-dried-mango.jpg"
+          }
+         
+          
+        ]
+        
+      },
+      {
+        "id":2,
+        "name": "Ice  Grape milk ",
+        "price": 30000,
+        "image":  "https://media.spokesman.com/photos/2018/10/26/SRX_WITCHES_BREW_3.jpg",
+        "toping": [
+          {
+            "id":1,
+            "name": "Buble Tea Gelatin",
+            "price": 4000,
+            "image": "https://www.bubbletea.com.au/site/images/source/coffejel500.jpg"
+          },
+          {
+            "id":2,
+            "name": "Manggo",
+            "price": 3000,
+            "image":  "https://foodtolive.com/healthy-blog/wp-content/uploads/2017/06/diced-dried-mango.jpg"
+          }
+         
+          
+        ]
+      }
+    
+      
+    ]
+    
+  }
+  
+}
